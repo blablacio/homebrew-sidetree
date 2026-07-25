@@ -1,6 +1,6 @@
 cask "sidetree-helium" do
-  version "0.14.7.1.1"
-  sha256 "4ea14946be7d163c31004e2b29555c38902fc1ac1b5a9e567499101479b1d525"
+  version "0.14.9.1.1"
+  sha256 "93838169904ed13ecf828964663812cddd55dd318094a11c3d4908ee7edb0a6a"
 
   url "https://github.com/blablacio/helium-macos/releases/download/sidetree-helium-macos-#{version}/helium-macos-sidetree-helium-macos-#{version}.zip",
       verified: "github.com/blablacio/helium-macos/"
