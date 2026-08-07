@@ -1,6 +1,6 @@
 cask "sidetree-chromium" do
-  version "151.0.7922.76.1"
-  sha256 "1f6036c02d499fdade8c91eb0f17f20dfa8e61e214ce13d7b6e3e32cfa29f530"
+  version "151.0.7922.109.1"
+  sha256 "3465bbaaaca3a0ff00d2a1e83f7fe3156d70a93e6e0fa7d6c1db897d2c91be43"
 
   url "https://github.com/blablacio/chromium/releases/download/sidetree-chromium-#{version}/chromium-sidetree-chromium-#{version}.zip",
       verified: "github.com/blablacio/chromium/"
